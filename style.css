@@ -1,0 +1,117 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  h1.title{
+    font-family: papyrus;
+  }
+  body{
+    background-color: #E9DFF0;
+  }
+  
+  ul:link {
+    color: #2A5B20;
+  }
+  ul:visited {
+    color: #7076E5;
+  }
+  
+  td.rank:hover {
+    background-color: #84EFA4;
+  }
+  
+  td.naam:hover {
+    background: #FFC5C7;
+  }
+  
+  table,th,td {
+    border: 1px solid black;
+    border-radius: 10px;
+    border-color: #9E9FCB;
+    border-style: inset;
+    text-align: center;
+  }
+  
+  p.grapje{
+    color: #E9DFF0;
+    margin: 30px;
+  
+  }
+  p.grapje:hover{
+    color: #000000;
+  }
+  
+  
+  body 
+  * {box-sizing: border-box;}
+  
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: #E9DFF0;
+    padding: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  button{
+  margin: 10px;
+  background-color: #FFDEE0;
+    border: 4;
+    border-color: #FF6464;
+  }
+  
+  body.parken{
+    background-image:     url(https://png.pngtree.com/thumb_back/fh260/background/20201107/pngtree-simple-fruit-banana-cherry-loop-pattern-image_465959.jpg) ;
+    background-repeat: repeat;
+  }
+  
+  h2 {
+    font-family: “Comic Sans MS”, “Comic Sans”, cursive;
+  }
